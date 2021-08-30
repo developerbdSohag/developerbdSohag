@@ -1,0 +1,15 @@
+h1{font-family: 'montserrat_alternatesregular'; font-weight:400px;}
+
+.icon i{
+    font-size:50px; 
+    border:2px solid red;
+    height:60px;
+    width:60px;
+    text-align:center;
+    line-height:60px;
+}
+.demo{width:700px; margin:auto;}
+.demo ul{margin:0; padding:0; list-style:none;}
+.demo ul li{ margin-bottom:20px;}
+.demo ul li:before{content:"\e692"; font-family: 'Pe-icon-7-stroke'; margin-right:10px;}
+.demo ul li a{text-decoration:none; text-transform:uppercase; font-weight:700; color:#666;}

@@ -1,0 +1,17 @@
+body{margin:0;}
+/*header part*/
+.header-area{padding:10px 0px}
+.fix{overflow:hidden;}
+.container{width:800px;margin:auto;}
+.logo{float:left;}
+.menu{float:right;}
+.menu ul{margin:0; padding:0; list-style:none;}
+.menu ul li{float:left; margin:0px 10px; }
+.menu ul li a{padding:20px; margin-top:0; background:black; color:white; display:block;}
+/*slider-part*/
+
+
+
+
+
+/*footer-part*/

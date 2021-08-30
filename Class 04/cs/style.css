@@ -1,0 +1,71 @@
+/*reset css*/
+body{margin:0;}
+*{box-sizing:border-box;}
+/*header part*/
+.header-area{padding:10px 0px}
+.fix{overflow:hidden;}
+.container{width:800px;margin:auto;}
+.logo{float:left;}
+.menu{float:right;}
+.menu ul{margin:0; padding:0; list-style:none;}
+.menu ul li{float:left; margin:0px 10px; }
+.menu ul li a{
+    padding:20px; 
+    margin-top:0; 
+    border:1px solid black; 
+    color:black; 
+    display:block; 
+    text-decoration:none;
+    transition:.3s;
+}
+.menu ul li a:hover{
+    color:white;
+    background:black;
+}
+
+
+/*slider-part*/
+.slider-area{}
+.slider-area .banner{height:250px;}
+.slider-area .banner img{height:100%; width:100%;}
+
+
+/*content*/
+.content-area{
+    padding:100px;
+    background: #f6f6f6;
+}
+.text{width:50%; float:left;}
+.text h2{border-bottom:2px solid black;}
+.content-menu{float:right; width:50%; padding-left:15px;}
+.content-menu ul{list-style:none; padding:0; margin:0; margin-top:20px;}
+.content-menu ul li{
+    border-bottom:2px solid #000;
+    margin-bottom:10px;
+    margin-right:25px;
+    padding-bottom:10px;
+    transition:.6s;
+}
+.content-menu ul li a{
+    display:block;
+    text-decoration:none; 
+    color:#666;
+    font-size:24px;
+    transition:.6s;   
+
+} 
+.content-menu ul li a:hover{color:white;background:#f00;padding-left:40%;}
+.content-menu ul li:hover{border-bottom:2px solid red;}
+.content-menu ul li:last-child{border-bottom:0;}
+
+/*gallery*/
+.img{
+    width:33.33%; 
+    float:left;
+    line-height:0;
+}
+.img img{width:100%;}
+
+
+/*footer-part*/
+footer{padding:50px 0; text-align:center;}
