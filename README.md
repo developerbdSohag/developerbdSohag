@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <sub>🌱 Currently exploring: TypeScript · Next.js · Node.js</sub>
+  <sub>🌱 Currently exploring: JavaScript | TypeScript | Next.js | Node.js</sub>
 </div>
 
 <br/>
