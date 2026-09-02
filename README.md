@@ -42,18 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerbdsohag&" alt="developerbdsohag" /></p>
 
-## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazmincodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmincodes&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/><br/>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazmincodes&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/>
 
 ## 🌐 Connect With Me
 
