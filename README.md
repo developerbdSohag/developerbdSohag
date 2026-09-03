@@ -1,4 +1,4 @@
-
+<img src='https://github.com/developerbdSohag/developerbdSohag/blob/main/my_banner.png'/>
 <p>Hi 👋, I'm Md. Salahuddin Sohag 👋- Aspiring Full-Stack Web Developer focused on mastering HTML5, CSS3, JavaScript, TypeScript, and React.js. Currently learning strong fundamentals in frontend development, responsive UI, component-based architecture, and problem-solving, with the goal of creating scalable, modern, and user-friendly web applications.</p> <hr>
 <div align="center">
 <h3>A passionate frontend developer from Bangladesh</h3>
