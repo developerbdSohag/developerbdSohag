@@ -2,6 +2,39 @@
 <p>Hi 👋, I'm Md. Salahuddin Sohag 👋- Aspiring Full-Stack Web Developer focused on mastering HTML5, CSS3, JavaScript, TypeScript, and React.js. Currently learning strong fundamentals in frontend development, responsive UI, component-based architecture, and problem-solving, with the goal of creating scalable, modern, and user-friendly web applications.</p> <hr>
 <div align="center">
 <h3>A passionate frontend developer from Bangladesh</h3>
+  <svg fill="none" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate {
+					0% {
+						transform: rotate(2deg);
+					}
+					100% {
+						transform: rotate(-2deg);
+					}
+				}
+				h1 {
+					font-family: sans-serif;
+					text-align: center;
+					font-size: 30px;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+					margin: 0;
+					padding: 8px 0;
+				}
+			</style>
+			<h1>🧠 Projects 🧑‍💻</h1>
+		</div>
+	</foreignObject>
+</svg>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Data+Analyst;Currently+Learning+React.js;Passionate+About+Clean+Code" alt="Typing SVG" />
 
 </div>
