@@ -18,31 +18,13 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const developer = {
-  name: "Md. Salahuddin Sohag",
-  role: "Full-Stack Web Developer & Data Analyst",
-  location: "Dhaka, Bangladesh",
-  focus: ["Next.js (App Router)", "TypeScript", "React.js", "Data Dashboards"],
-  currentProject: "Scalable Full-Stack Web Applications",
-  passions: ["Clean Code Architecture", "Data-Driven Insights", "Modern UI/UX"],
-  openForCollaboration: true
-};
-```
+Hi there! I'm **Md. Salahuddin Sohag**, a passionate **Full-Stack Web Developer & Data Analyst** based in Dhaka, Bangladesh 🇧🇩. I focus on building modern, responsive, and scalable web applications with **React.js**, **Next.js**, and **TypeScript**, combining clean code architecture with intuitive UI/UX.
 
 - 🔭 **Current Focus:** Engineering responsive, robust, and accessible full-stack applications with modern web standards.
-- 🌱 **Learning & Leveling Up:** Advanced **Next.js**, **TypeScript**, full-stack state flows, and data analysis pipelines.
-- 💡 **Philosophy:** Writing modular, readable, and maintainable code with high performance and intuitive UX.
-- 👯 **Collaborations:** Open to collaborating on open-source initiatives, modern SaaS frontend/full-stack builds.
-- 📫 **Direct Reach:** Drop a message at **[mdsalahuddinsohag218@gmail.com](mailto:mdsalahuddinsohag218@gmail.com)**.
-
-<details>
-  <summary><b>⚡ Quick Bio & Development Philosophy (Click to expand)</b></summary>
-  <br/>
-  <blockquote>
-    "I believe that great software blends aesthetic visual design with rock-solid, scalable architecture. Whether architecting interactive dashboards or engineering component libraries, my focus is always on user satisfaction, performance, and clean maintainable code."
-  </blockquote>
-</details>
+- 🌱 **Learning & Leveling Up:** Advanced **Next.js (App Router)**, **TypeScript**, state architecture, and data analysis pipelines.
+- 💡 **Philosophy:** Writing clean, modular, and maintainable code with high performance and user-friendly design.
+- 👯 **Collaborations:** Open to collaborating on open-source initiatives, modern SaaS builds, and web projects.
+- 📫 **Direct Reach:** Drop a message anytime at **[mdsalahuddinsohag218@gmail.com](mailto:mdsalahuddinsohag218@gmail.com)**.
 
 ---
 
