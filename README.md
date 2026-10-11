@@ -14,10 +14,10 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=developerbdsohag&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Bangladesh-22c55e?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-blueviolet?style=flat" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-0284c7?style=flat&logo=react&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0284c7?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-8b5cf6?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
   </p>
 </div>
 
