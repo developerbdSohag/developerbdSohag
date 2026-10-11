@@ -12,13 +12,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React.js+%26+Next.js+Specialist;TypeScript+%26+Modern+JavaScript;Data+Analyst+Enthusiast;Building+Scalable+%26+Impactful+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0284c7?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role" />
-    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-8b5cf6?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-  </p>
 </div>
 
 ---
