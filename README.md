@@ -14,10 +14,10 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=developerbdSohag&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Bangladesh-22c55e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-blueviolet?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20TypeScript-0284c7?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=developerbdsohag&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Bangladesh-22c55e?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-blueviolet?style=flat" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-0284c7?style=flat&logo=react&logoColor=white" alt="Focus" />
   </p>
 </div>
 
@@ -55,19 +55,19 @@ const developer = {
 
 ### 🛠️ Tech Stack & Skills
 
-<div align="left">
-
 #### 💻 Languages & Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
 
 #### ⚙️ Backend, Database & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma,postman,vercel,npm&theme=dark" alt="Backend & Tools" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma,postman,vercel,npm&theme=dark" alt="Backend & Tools" />
+  </a>
+</p>
 
 ---
 
