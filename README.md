@@ -4,7 +4,7 @@
   <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-salahuddin-sohag/">Md. Salahuddin Sohag</a> 👋</h1>
 
   <p align="center">
-    <b>Full-Stack Web Developer & Data Analyst</b> • Dhaka, Bangladesh 🇧🇩
+    <b>Aspiring Full-Stack Web Developer and Data Analyst</b> • Dhaka, Bangladesh 🇧🇩
   </p>
 
   <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Md. Salahuddin Sohag**, a passionate **Full-Stack Web Developer & Data Analyst** based in Dhaka, Bangladesh 🇧🇩. I focus on building modern, responsive, and scalable web applications with **React.js**, **Next.js**, and **TypeScript**, combining clean code architecture with intuitive UI/UX.
+Hi there! I'm **Md. Salahuddin Sohag**, a passionate learner of **Full-Stack Web Developer & Data Analyst** based in Dhaka, Bangladesh 🇧🇩. I focus on building modern, responsive, and scalable web applications with **React.js**, **Next.js**, and **TypeScript**, combining clean code architecture with intuitive UI/UX.
 
 - 🔭 **Current Focus:** Engineering responsive, robust, and accessible full-stack applications with modern web standards.
 - 🌱 **Learning & Leveling Up:** Advanced **Next.js (App Router)**, **TypeScript**, state architecture, and data analysis pipelines.
