@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/developerbdSohag">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React.js+%26+Next.js+Specialist;TypeScript+%26+Modern+JavaScript;Data+Analyst+Enthusiast;Building+Scalable+%26+Impactful+Web+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Web+Developer;React.js+%26+Next.js+Specialist;TypeScript+%26+Modern+JavaScript;Data+Analyst+Enthusiast;Building+Scalable+%26+Impactful+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 </div>
